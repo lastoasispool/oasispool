@@ -1,6 +1,8 @@
+cat > poolMetaData.json << EOF
 {
 "name": "OasisPool",
 "description": "OasisPool",
-"ticker" "OASIS",
-"homepage": "https://lastoasispool.wordpress.com/"
+"ticker": "OASIS",
+"homepage": "https://tinyurl.com/lastoasispool"
 }
+EOF
